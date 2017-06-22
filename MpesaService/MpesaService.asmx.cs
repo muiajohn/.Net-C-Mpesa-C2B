@@ -42,7 +42,7 @@ namespace MpesaService
                 {
                     ResultCode = "0",
                     ResultDesc = "Service processing successful",
-                    ThirdPartyTransID = dx.ThirdPartyTransID
+                    //ThirdPartyTransID = dx.ThirdPartyTransID
                 };
             }
             else
